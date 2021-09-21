@@ -9,7 +9,7 @@
 - Entity Framework
 - PostegreSql Ado.Net
 
-## You will need docker to use containerize rabbitmq. 
+## You will need docker to containerize rabbitmq. 
 ## Run this command to download and run rabbitmq image
 
 ```bash
