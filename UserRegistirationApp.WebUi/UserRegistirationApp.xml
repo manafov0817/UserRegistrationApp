@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>UserRegistirationApp.WebUi</name>
+    </assembly>
+    <members>
+        <member name="M:UserRegistirationApp.WebUi.Controllers.UserController.GetUsers">
+            <summary>
+            Get All Users 
+            </summary>
+            <returns></returns>
+            
+        </member>
+        <member name="M:UserRegistirationApp.WebUi.Controllers.UserController.GetUser(System.Int32)">
+            <summary>
+            Get Individual User
+            </summary>
+            <param name="userId">The Id of User</param>
+            <returns></returns>
+                    
+        </member>
+        <member name="M:UserRegistirationApp.WebUi.Controllers.UserController.Create(UserRegistirationApp.WebUi.Models.DTOs.UserDTO)">
+            <summary>
+            Create User
+            </summary>
+            <param name="userDTO">User</param>
+            <returns></returns>
+               
+        </member>
+        <member name="M:UserRegistirationApp.WebUi.Controllers.UserController.Update(UserRegistirationApp.WebUi.Models.DTOs.UserDTO)">
+            <summary>
+            Update User
+            </summary>
+            <returns></returns>
+             
+        </member>
+        <member name="M:UserRegistirationApp.WebUi.Controllers.UserController.Delete(System.Int32)">
+            <summary>
+            Delete User
+            </summary>
+            <param name="userId">The Id of User</param>
+            <returns></returns>
+              
+        </member>
+    </members>
+</doc>

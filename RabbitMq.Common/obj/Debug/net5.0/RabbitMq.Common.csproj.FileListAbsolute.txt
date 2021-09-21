@@ -1,0 +1,12 @@
+D:\Programming\ATL\UserRegistirationApp\RabbitMq.Common\bin\Debug\net5.0\RabbitMq.Common.deps.json
+D:\Programming\ATL\UserRegistirationApp\RabbitMq.Common\bin\Debug\net5.0\RabbitMq.Common.dll
+D:\Programming\ATL\UserRegistirationApp\RabbitMq.Common\bin\Debug\net5.0\ref\RabbitMq.Common.dll
+D:\Programming\ATL\UserRegistirationApp\RabbitMq.Common\bin\Debug\net5.0\RabbitMq.Common.pdb
+D:\Programming\ATL\UserRegistirationApp\RabbitMq.Common\obj\Debug\net5.0\RabbitMq.Common.csproj.AssemblyReference.cache
+D:\Programming\ATL\UserRegistirationApp\RabbitMq.Common\obj\Debug\net5.0\RabbitMq.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\ATL\UserRegistirationApp\RabbitMq.Common\obj\Debug\net5.0\RabbitMq.Common.AssemblyInfoInputs.cache
+D:\Programming\ATL\UserRegistirationApp\RabbitMq.Common\obj\Debug\net5.0\RabbitMq.Common.AssemblyInfo.cs
+D:\Programming\ATL\UserRegistirationApp\RabbitMq.Common\obj\Debug\net5.0\RabbitMq.Common.csproj.CoreCompileInputs.cache
+D:\Programming\ATL\UserRegistirationApp\RabbitMq.Common\obj\Debug\net5.0\RabbitMq.Common.dll
+D:\Programming\ATL\UserRegistirationApp\RabbitMq.Common\obj\Debug\net5.0\ref\RabbitMq.Common.dll
+D:\Programming\ATL\UserRegistirationApp\RabbitMq.Common\obj\Debug\net5.0\RabbitMq.Common.pdb

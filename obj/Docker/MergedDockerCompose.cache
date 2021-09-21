@@ -1,0 +1,27 @@
+services:
+  rabbitmq.consumer:
+    build:
+      context: D:\Programming\ATL\UserRegistirationApp
+      dockerfile: RabbitMq.Consumer/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: https://+:443;http://+:80
+    image: rabbitmqconsumer
+    ports:
+    - target: 80
+    - target: 443
+    volumes:
+    - C:\Users\User\AppData\Roaming\ASP.NET\Https:/root/.aspnet/https:ro
+    - C:\Users\User\AppData\Roaming\Microsoft\UserSecrets:/root/.microsoft/usersecrets:ro
+  userregistirationapp.webui:
+    build:
+      context: D:\Programming\ATL\UserRegistirationApp
+      dockerfile: UserRegistirationApp.WebUi/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: userregistirationappwebui
+    ports:
+    - target: 80
+    volumes:
+    - C:\Users\User\AppData\Roaming\Microsoft\UserSecrets:/root/.microsoft/usersecrets:ro
+version: '3.4'

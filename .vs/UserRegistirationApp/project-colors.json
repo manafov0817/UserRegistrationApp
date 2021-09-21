@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c401d958-3406-4b7d-ae09-a308b593f51e": {
+      "ProjectGuid": "c401d958-3406-4b7d-ae09-a308b593f51e",
+      "DisplayName": "docker-compose",
+      "ColorIndex": 0
+    },
+    "4ae62593-7677-424c-a4eb-355a2abb4826": {
+      "ProjectGuid": "4ae62593-7677-424c-a4eb-355a2abb4826",
+      "DisplayName": "UserRegistirationApp.WebUi",
+      "ColorIndex": 1
+    },
+    "b8062edd-3be7-4b92-aa66-e51b23c6f359": {
+      "ProjectGuid": "b8062edd-3be7-4b92-aa66-e51b23c6f359",
+      "DisplayName": "RabbitMq.Consumer",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "14970186-b249-468c-8da4-eb7b1492179e": {
+      "ProjectGuid": "14970186-b249-468c-8da4-eb7b1492179e",
+      "DisplayName": "UserRegistirationApp.Data",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
