@@ -13,9 +13,9 @@
 ## Run this command to download and run rabbitmq image
 
 ```bash
-docker run -d --hostname my-rabbit --name ecomm-rabbit -p 15672:15672 -p 5672:5672 rabbitmq:3.9-management
+docker run -d --hostname my-rabbit --name rabbit -p 15672:15672 -p 5672:5672 rabbitmq:3.9-management
 ```
-I have used PostegreSql in project, so you will need procedures. Good new is you can
+I have used PostegreSql in project, so you will need procedures. Good news is you can
 ```bash
  update-database
 ```
